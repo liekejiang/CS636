@@ -13,5 +13,6 @@ I am still fine tuning my model, the final result may be improved
 I meet a strange problem about my model. When using GUI to get the predicted image, the first time works well but turns bad in second time with the same image. Please restart the kernal to get the correct reulst. 
 Professor has no idea about that, I will try to solve it.
 
-
+### demo video
+cat.mp4 is my demo video
 
